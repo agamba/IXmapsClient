@@ -1,6 +1,3 @@
-# IXmapsClient-antoFork
-... test
-
 # IXmaps Client
 `v1.0` released December 7, 2015
 
